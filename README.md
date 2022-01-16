@@ -1,0 +1,2 @@
+# PalindromicNumber
+ finding palindromic number
